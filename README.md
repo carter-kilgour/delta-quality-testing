@@ -1,6 +1,6 @@
 
 # Data Quality Testing & Reporting Process
-Full presentation available [![Data & AI Summit](https://www.youtube.com/watch?v=mZ33PJzJtlw&t=142s)](here)
+Full presentation available [![here](https://www.youtube.com/watch?v=mZ33PJzJtlw&t=142s)](https://www.youtube.com/watch?v=mZ33PJzJtlw&t=142s)
 
 Presentation slides & extended code snippets can be found in PresentationSlides.pdf
 
@@ -8,7 +8,7 @@ Presentation slides & extended code snippets can be found in PresentationSlides.
 ## Setup Environment
 ```
 conda create --name datatest python=3.7
-conda activate dbconnectappdemo
+conda activate datatest
 pip install -r requirements.txt
 databricks-connect configure
 ```
