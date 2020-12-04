@@ -1,6 +1,6 @@
 
 # Data Quality Testing & Reporting Process
-Full presentation available [![here](https://www.youtube.com/watch?v=mZ33PJzJtlw&t=142s)](https://www.youtube.com/watch?v=mZ33PJzJtlw&t=142s)
+Full presentation available [![here]](https://www.youtube.com/watch?v=mZ33PJzJtlw&t=142s)
 
 Presentation slides & extended code snippets can be found in PresentationSlides.pdf
 
